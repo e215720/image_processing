@@ -1,0 +1,38 @@
+# LaTeX
+*.aux
+*.log
+*.pdf
+*.dvi
+*.bbl
+*.blg
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.lol
+*.nlo
+*.idx
+*.ilg
+*.ind
+*.loa
+*.los
+*.gls
+*.glg
+*.glo
+*.ist
+
+# Compiled files
+*.dvi
+*.pdf
+*.ps
+*.eps
+*.pyc
+
+# Temporary files
+*~
+*.backup
+*.bak
+*.swp
