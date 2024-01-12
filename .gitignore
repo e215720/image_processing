@@ -23,6 +23,7 @@
 *.glg
 *.glo
 *.ist
+*.tex
 
 # Compiled files
 *.dvi
