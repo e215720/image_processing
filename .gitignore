@@ -23,7 +23,6 @@
 *.glg
 *.glo
 *.ist
-*.tex
 
 # Compiled files
 *.dvi
@@ -37,3 +36,6 @@
 *.backup
 *.bak
 *.swp
+
+# LaTeX source files
+*.tex
